@@ -1,0 +1,5 @@
+remote_theme: chrisrhymes/bulma-clean-theme
+domain: matanhofree.github.io
+url: https://matanhofree.github.io
+plugins:
+- github-pages
